@@ -1,0 +1,12 @@
+{
+  "name": "ecvision",
+  "description": "Claude plugins from ecvision: competitor intelligence for Shopify stores.",
+  "owner": { "name": "ecvision" },
+  "plugins": [
+    {
+      "name": "ecvision",
+      "source": "./plugins/ecvision",
+      "description": "Competitor intelligence for Shopify stores: what rivals sell, change, advertise and post, read from ecvision with sources and dates."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ecvision",
+  "displayName": "ecvision",
+  "version": "0.1.0",
+  "description": "Competitor intelligence for Shopify stores: what rivals sell, change, advertise and post, read from ecvision with sources and dates.",
+  "author": {
+    "name": "ecvision"
+  },
+  "privacyPolicyUrl": "https://ecvision.ai/privacy"
+}
