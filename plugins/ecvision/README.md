@@ -1,5 +1,3 @@
-<!-- DRAFT v0.1: wording not yet approved (ask_team). Remove this line before any submission. -->
-
 # ecvision for Claude
 
 ecvision watches your Shopify store and the rival stores you choose, every day, from public sources: their products, prices, sales, ads, posts and estimated traffic. This plugin adds five skills that turn those readings into answers Claude can give you, each with its source and the date it was read.

@@ -1,5 +1,3 @@
-<!-- DRAFT v0.1: wording not yet approved (ask_team). Remove this line before any submission. -->
-
 # ecvision-claude-plugin
 
 Claude plugin for [ecvision](https://ecvision.ai): competitor intelligence for Shopify stores. It adds five skills that turn ecvision's daily readings of your store and the rivals you track into answers Claude can give, each with its source and the date it was read.
