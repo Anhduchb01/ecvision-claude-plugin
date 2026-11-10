@@ -25,6 +25,10 @@ plugins/ecvision/                 the plugin: manifest, connector reference, fiv
 
 See [`plugins/ecvision/README.md`](plugins/ecvision/README.md) for what each skill does, what data the plugin sends, and its limits.
 
+## License
+
+MIT, see [`LICENSE`](LICENSE). The license covers the files in this repository. It does not grant any right to use the ecvision name or logo, which remain the property of ecvision.
+
 ## Requirements
 
 An ecvision account with competitors set up. The plugin is read-only: it never writes to or changes anything in your workspace.
