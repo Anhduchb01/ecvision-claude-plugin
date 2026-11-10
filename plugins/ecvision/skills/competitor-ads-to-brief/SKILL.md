@@ -40,4 +40,4 @@ No spend, impressions, click-through rate, engagement or ROAS for any ad, and no
 
 ## Plan limits
 
-If an answer carries `upgrade`, offer it in one sentence and add nothing about plans or prices.
+If the answer carries `upgrade`, it names the plan that includes what was held back. Mention it only when the merchant asks how to see more, and say no more about plans or prices than the answer says.

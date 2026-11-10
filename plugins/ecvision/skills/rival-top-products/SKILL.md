@@ -40,4 +40,4 @@ Units sold, orders, returns, margin, or the store's own Best Sellers ranking as 
 
 ## Plan limits
 
-Where the plan holds rows back, `plan_withheld` says so and `withheld` counts them. Say the plan holds them back, not that there are none. If the answer carries `upgrade`, offer it in one sentence and add nothing about plans or prices.
+Where the plan holds rows back, `plan_withheld` says so and `withheld` counts them. Say the plan holds them back, not that there are none. If the answer carries `upgrade`, it names the plan that includes what was held back. Mention it only when the merchant asks how to see more, and say no more about plans or prices than the answer says.

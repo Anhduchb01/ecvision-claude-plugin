@@ -36,7 +36,7 @@ It does not know sales volume, returns or margin. Do not turn a price change or 
 
 ## Plan limits
 
-On the Free plan product changes are withheld. Say the plan holds them back, never that nothing changed. If the answer carries `upgrade`, offer it in one sentence.
+On the Free plan product changes are withheld. Say the plan holds them back, never that nothing changed. If the answer carries `upgrade`, it names the plan that includes what was held back. Mention it only when the merchant asks how to see more, and say no more about plans or prices than the answer says.
 
 ## Answer shape
 
